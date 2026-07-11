@@ -77,7 +77,7 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 
 <div align="center">
 
-[![GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mkadir1999&bg_color=transparent&color=5391FE&line=0078D4&point=26A5E4&area=true&hide_border=true)](https://github.com/Mkadir1999)
+[![GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kdrcoding&bg_color=transparent&color=5391FE&line=0078D4&point=26A5E4&area=true&hide_border=true)](https://github.com/Mkadir1999)
 
 <br />
 
