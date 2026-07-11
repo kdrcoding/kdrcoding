@@ -106,7 +106,7 @@ Always happy to connect with people in IT support, systems administration, moder
 [![Portfolio](https://img.shields.io/badge/Portfolio-kdrcoding.com-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kdrcoding.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kadir%20Ravshanov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kadir-ravshanov-961994187)
 [![Telegram](https://img.shields.io/badge/Telegram-@imkadi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imkadi)
-[![GitHub](https://img.shields.io/badge/GitHub-Mkadir1999-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mkadir1999)
+[![GitHub](https://img.shields.io/badge/GitHub-kdrcoding-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mkadir1999)
 
 <br />
 
