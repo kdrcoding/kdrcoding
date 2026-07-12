@@ -96,6 +96,11 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 - [ ] 🖥️ **Windows Server & Group Policy Labs** (Building out local sandbox active environments targeting modern secure policy design)
 
 ---
+![](https://komarev.com/ghpvc/?username=kdrcoding&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
 
 ## 🤝 Let's connect
 
