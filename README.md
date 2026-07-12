@@ -53,8 +53,6 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 ![](https://img.shields.io/badge/WordPress_/_WooCommerce-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/Cloudflare_DNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kdrcoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 ## 📌 Featured projects
@@ -97,6 +95,7 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 - [ ] 🖥️ **Windows Server & Group Policy Labs** (Building out local sandbox active environments targeting modern secure policy design)
 
 ---
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kdrcoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🤝 Let's connect
 
