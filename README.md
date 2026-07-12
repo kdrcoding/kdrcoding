@@ -95,7 +95,8 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 - [ ] 🖥️ **Windows Server & Group Policy Labs** (Building out local sandbox active environments targeting modern secure policy design)
 
 ---
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kdrcoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 ## 🤝 Let's connect
 
 <div align="center">
