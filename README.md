@@ -16,7 +16,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Focus-CompTIA%20Security%2B-0078D4?style=flat-square&logo=target&logoColor=white" alt="Current Focus" />
-  <img src="https://komarev.com/ghpvc/?username=Mkadir1999&style=flat-square&color=0078D4&label=Visitors" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kdrcoding&style=flat-square&color=0078D4&label=Visitors" alt="Profile views" />
 </p>
 
 <sub><a href="#-about-me">About</a> · <a href="#%EF%B8%8F-core-toolkit">Skills</a> · <a href="#-featured-projects">Projects</a> · <a href="#-github-metrics">Activity</a> · <a href="#%EF%B8%8F-roadmap">Roadmap</a> · <a href="#-lets-connect">Connect</a></sub>
@@ -59,14 +59,14 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 
 | Project | What it solves | Tech Stack |
 | :--- | :--- | :--- |
-| 🛠️ [**Windows Support Scripts**](https://github.com/Mkadir1999/windows-support-scripts) | Automates link-local troubleshooting, network configurations, and common help desk diagnostic routines. | PowerShell · Windows CLI |
-| 📚 [**IT Troubleshooting Notes**](https://github.com/Mkadir1999/it-troubleshooting-notes) | Centralized, markdown-driven internal IT knowledge base tracking local deployment configurations. | Markdown · Technical Writing |
-| 📋 [**Job Application Tracker**](https://github.com/Mkadir1999/job-application-tracker) | Dependency-free, optimized application status indexing client utility utilizing client storage parameters. | HTML5 · CSS3 · JavaScript |
-| 🌐 [**WordPress Translation Workflow**](https://github.com/Mkadir1999/translate-wordpress-web) | Optimizes automated string parsing routines and removes data localization overhead during deployments. | WordPress · Bash/PowerShell |
+| 🛠️ [**Windows Support Scripts**](https://github.com/kdrcoding/windows-support-scripts) | Automates link-local troubleshooting, network configurations, and common help desk diagnostic routines. | PowerShell · Windows CLI |
+| 📚 [**IT Troubleshooting Notes**](https://github.com/kdrcoding/it-troubleshooting-notes) | Centralized, markdown-driven internal IT knowledge base tracking local deployment configurations. | Markdown · Technical Writing |
+| 📋 [**Job Application Tracker**](https://github.com/kdrcoding/job-application-tracker) | Dependency-free, optimized application status indexing client utility utilizing client storage parameters. | HTML5 · CSS3 · JavaScript |
+| 🌐 [**WordPress Translation Workflow**](https://github.com/kdrcoding/translate-wordpress-web) | Optimizes automated string parsing routines and removes data localization overhead during deployments. | WordPress · Bash/PowerShell |
 
 <div align="center">
 
-[![Explore all repositories](https://img.shields.io/badge/Explore_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mkadir1999?tab=repositories)
+[![Explore all repositories](https://img.shields.io/badge/Explore_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kdrcoding?tab=repositories)
 
 </div>
 
@@ -76,11 +76,11 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 
 <div align="center">
 
-[![GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kdrcoding&bg_color=transparent&color=5391FE&line=0078D4&point=26A5E4&area=true&hide_border=true)](https://github.com/Mkadir1999)
+[![GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kdrcoding&bg_color=transparent&color=5391FE&line=0078D4&point=26A5E4&area=true&hide_border=true)](https://github.com/kdrcoding)
 
 <br />
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Mkadir1999/Mkadir1999&type=Date)](https://star-history.com/#Mkadir1999/Mkadir1999&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kdrcoding/kdrcoding&type=Date)](https://star-history.com/#kdrcoding/kdrcoding&Date)
 
 <sub>Statistics are based on public GitHub activity and do not represent overall experience.</sub>
 
