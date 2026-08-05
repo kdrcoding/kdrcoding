@@ -3,7 +3,7 @@
 <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5391FE&height=200&section=header&text=Kadir%20Ravshanov&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=IT%20Support%20Specialist%20%7C%20Junior%20SysAdmin%20%7C%20Los%20Angeles&descSize=16&descAlignY=60&descAlign=50" alt="Kadir Ravshanov — IT Support Specialist and Junior Systems Administrator" />
 
 <div style="max-width: 100%; overflow: hidden;">
-  <img width="100%" height="55" style="max-width: 760px; height: auto;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=0078D4&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Windows+Server+%7C+Active+Directory+%7C+M365;PowerShell+Automation+%7C+OBD-II+Diagnostics;Local+AI+Workspaces+%7C+Web+Operations" alt="Windows Server, Active Directory, M365, PowerShell automation, OBD-II diagnostics, Local AI workspaces, and web operations" />
+  <img width="100%" height="55" style="max-width: 760px; height: auto;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=0078D4&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Windows+Server+%7C+Active+Directory+%7C+M365;PowerShell+Automation+%7C+OBD-II+Diagnostics;Local+AI+Workspaces+%7C+Web+Operations;CompTIA+Security%2B+%7C+Lab+Building+%7C+Always+Learning" alt="Windows Server, Active Directory, M365, PowerShell automation, OBD-II diagnostics, Local AI workspaces, web operations, and CompTIA Security+" />
 </div>
 
 <br />
@@ -15,11 +15,14 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-CompTIA%20Security%2B-0078D4?style=flat-square&logo=target&logoColor=white" alt="Current Focus" />
+  <img src="https://img.shields.io/badge/Focus-CompTIA%20Security%2B-0078D4?style=flat-square&logo=comptia&logoColor=white" alt="Current Focus: CompTIA Security+" />
+  <img src="https://img.shields.io/badge/Status-Building%20Homelab%20%26%20Scripts-success?style=flat-square&logo=statuspage&logoColor=white" alt="Status: Building Homelab and Scripts" />
   <img src="https://komarev.com/ghpvc/?username=kdrcoding&style=flat-square&color=0078D4&label=Visitors" alt="Profile views" />
 </p>
 
-<sub><a href="#-about-me">About</a> · <a href="#%EF%B8%8F-core-toolkit">Skills</a> · <a href="#-featured-projects">Projects</a> · <a href="#-trophies">Trophies</a> · <a href="#-github-metrics">Activity</a> · <a href="#%EF%B8%8F-roadmap">Roadmap</a> · <a href="#-lets-connect">Connect</a></sub>
+<img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Random IT Joke" />
+
+<sub><a href="#-about-me">About</a> · <a href="#%EF%B8%8F-core-toolkit">Skills</a> · <a href="#-featured-projects">Projects</a> · <a href="#-github-metrics">Activity</a> · <a href="#%EF%B8%8F-roadmap">Roadmap</a> · <a href="#-lets-connect">Connect</a></sub>
 
 </div>
 
@@ -34,6 +37,10 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 * **Languages:** Fluent in English, Uzbek, Russian, and Turkish.
 
 > **Currently:** Engineering automated internal IT support scripts, configuring local sandbox labs, and preparing for the **CompTIA Security+** credential.
+
+<p align="center">
+  <i>"Any sufficiently advanced technology is indistinguishable from magic."</i> — Arthur C. Clarke
+</p>
 
 ---
 
@@ -63,6 +70,13 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 | 🌍 **DNS / CDN** | ![](https://img.shields.io/badge/Cloudflare_DNS-F38020?style=flat&logo=cloudflare&logoColor=white) |
 | ⚙️ **Automation** | ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
 
+### 🎯 Currently Strengthening
+
+| Area | Stack |
+| :--- | :--- |
+| 🔐 **Cybersecurity** | ![](https://img.shields.io/badge/CompTIA_Security%2B-ED1C24?style=flat&logo=comptia&logoColor=white) ![](https://img.shields.io/badge/WireShark-1679A7?style=flat&logo=wireshark&logoColor=white) |
+| ☁️ **Cloud** | ![](https://img.shields.io/badge/Azure_Fundamentals-0089D6?style=flat&logo=microsoft-azure&logoColor=white) |
+
 ---
 
 ## 📌 Featured projects
@@ -82,11 +96,15 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 
 ---
 
-## 🏆 Trophies
+## 🏆 Trophies & Fun
 
 <div align="center">
 
-[![GitHub profile trophies](https://github-profile-trophy.vercel.app/?username=kdrcoding&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub profile trophies](https://github-profile-trophy.vercel.app/?username=kdrcoding&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="500"/>
 
 </div>
 
@@ -97,6 +115,15 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 <div align="center">
 
 [![GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kdrcoding&bg_color=transparent&color=5391FE&line=0078D4&point=26A5E4&area=true&hide_border=true)](https://github.com/kdrcoding)
+
+<br />
+
+<!-- Contribution Snake (requires Platane/snk GitHub Action) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kdrcoding/kdrcoding/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kdrcoding/kdrcoding/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kdrcoding/kdrcoding/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br />
 
@@ -115,11 +142,26 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 
 ---
 
-## 🗺️ Roadmap
+## 🗺️ Roadmap with Progress
 
-- [ ] 🔐 **Earn CompTIA Security+** (Actively preparing for infrastructure and identity protection domain alignment)
-- [ ] 🤖 **Advanced Automated Workspaces** (Refining terminal interfaces integrating custom LLMs via command-line tools)
-- [ ] 🖥️ **Windows Server & Group Policy Labs** (Building out local sandbox active environments targeting modern secure policy design)
+<table align="center">
+  <tr>
+    <td>🔐 <b>CompTIA Security+</b></td>
+    <td><img src="https://progress-bar.dev/75?title=&width=200&color=0078D4&suffix=%25" alt="75% complete" /></td>
+  </tr>
+  <tr>
+    <td>🤖 <b>Advanced Automated Workspaces</b></td>
+    <td><img src="https://progress-bar.dev/40?title=&width=200&color=5391FE&suffix=%25" alt="40% complete" /></td>
+  </tr>
+  <tr>
+    <td>🖥️ <b>Windows Server & Group Policy Labs</b></td>
+    <td><img src="https://progress-bar.dev/60?title=&width=200&color=26A5E4&suffix=%25" alt="60% complete" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<i>Progress is tracked against my personal development plan. Updated weekly.</i>
+</div>
 
 ---
 
