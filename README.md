@@ -3,7 +3,7 @@
 <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5391FE&height=200&section=header&text=Kadir%20Ravshanov&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=IT%20Support%20Specialist%20%7C%20Junior%20SysAdmin%20%7C%20Los%20Angeles&descSize=16&descAlignY=60&descAlign=50" alt="Kadir Ravshanov — IT Support Specialist and Junior Systems Administrator" />
 
 <div style="max-width: 100%; overflow: hidden;">
-  <img width="100%" height="55" style="max-width: 900px; height: auto;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=0078D4&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Windows+Server+%7C+Active+Directory+%7C+M365;PowerShell+Automation+%7C+Advanced+OBD-II+Diagnostics;Local+AI+Workspaces+%7C+Full-Stack+Web+Operations" alt="Windows Server, Active Directory, M365, PowerShell automation, OBD-II diagnostics, Local AI workspaces, and web operations" />
+  <img width="100%" height="55" style="max-width: 760px; height: auto;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=0078D4&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Windows+Server+%7C+Active+Directory+%7C+M365;PowerShell+Automation+%7C+OBD-II+Diagnostics;Local+AI+Workspaces+%7C+Web+Operations" alt="Windows Server, Active Directory, M365, PowerShell automation, OBD-II diagnostics, Local AI workspaces, and web operations" />
 </div>
 
 <br />
@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=kdrcoding&style=flat-square&color=0078D4&label=Visitors" alt="Profile views" />
 </p>
 
-<sub><a href="#-about-me">About</a> · <a href="#%EF%B8%8F-core-toolkit">Skills</a> · <a href="#-featured-projects">Projects</a> · <a href="#-github-metrics">Activity</a> · <a href="#%EF%B8%8F-roadmap">Roadmap</a> · <a href="#-lets-connect">Connect</a></sub>
+<sub><a href="#-about-me">About</a> · <a href="#%EF%B8%8F-core-toolkit">Skills</a> · <a href="#-featured-projects">Projects</a> · <a href="#-trophies">Trophies</a> · <a href="#-github-metrics">Activity</a> · <a href="#%EF%B8%8F-roadmap">Roadmap</a> · <a href="#-lets-connect">Connect</a></sub>
 
 </div>
 
@@ -40,19 +40,29 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 ## 🛠️ Core Toolkit
 
 ### 🖥️ Systems Administration & Directory Services
-![](https://img.shields.io/badge/Windows_Client/Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+
+| Area | Stack |
+| :--- | :--- |
+| 🖥️ **Client / Server** | ![](https://img.shields.io/badge/Windows_Client/Server-0078D4?style=flat&logo=windows&logoColor=white) |
+| 🗂️ **Directory Services** | ![](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white) |
+| ☁️ **Cloud Productivity** | ![](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white) |
 
 ### 🔌 Advanced Diagnostics & Scripting
-![](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![](https://img.shields.io/badge/Vehicle_Bus_Networks_&_OBD--II_Diagnostics_(ENET/ICOM)-0078D4?style=for-the-badge&logo=bmw&logoColor=white)
-![](https://img.shields.io/badge/Ollama_/_Local_LLMs-181717?style=for-the-badge&logo=linux&logoColor=white)
+
+| Area | Stack |
+| :--- | :--- |
+| ⚡ **Scripting** | ![](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) |
+| 🚗 **Vehicle Networks** | ![](https://img.shields.io/badge/OBD--II_%26_ENET%2FICOM-0078D4?style=flat&logo=bmw&logoColor=white) |
+| 🤖 **Local AI** | ![](https://img.shields.io/badge/Ollama_%2F_Local_LLMs-181717?style=flat&logo=linux&logoColor=white) |
 
 ### 🌐 Web & Infrastructure Operations
-![](https://img.shields.io/badge/WordPress_/_WooCommerce-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![](https://img.shields.io/badge/Cloudflare_DNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+| Area | Stack |
+| :--- | :--- |
+| 🛒 **E-Commerce** | ![](https://img.shields.io/badge/WordPress_%2F_WooCommerce-21759B?style=flat&logo=wordpress&logoColor=white) |
+| 🌍 **DNS / CDN** | ![](https://img.shields.io/badge/Cloudflare_DNS-F38020?style=flat&logo=cloudflare&logoColor=white) |
+| ⚙️ **Automation** | ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+
 ---
 
 ## 📌 Featured projects
@@ -72,6 +82,16 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 
 ---
 
+## 🏆 Trophies
+
+<div align="center">
+
+[![GitHub profile trophies](https://github-profile-trophy.vercel.app/?username=kdrcoding&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 📊 GitHub Metrics
 
 <div align="center">
@@ -80,7 +100,14 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 
 <br />
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kdrcoding/kdrcoding&type=Date)](https://star-history.com/#kdrcoding/kdrcoding&Date)
+<img src="https://github-readme-stats.vercel.app/api?username=kdrcoding&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kdrcoding&theme=dark&hide_border=false&ring=0078D4&fire=26A5E4&currStreakLabel=0078D4&sideLabels=5391FE" alt="GitHub streak" />
+
+<br />
+
+#### 📈 Most used languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdrcoding&theme=dark&hide_border=false&layout=compact" alt="Top languages" />
 
 <sub>Statistics are based on public GitHub activity and do not represent overall experience.</sub>
 
@@ -95,8 +122,7 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 - [ ] 🖥️ **Windows Server & Group Policy Labs** (Building out local sandbox active environments targeting modern secure policy design)
 
 ---
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kdrcoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
+
 ## 🤝 Let's connect
 
 <div align="center">
