@@ -1,16 +1,21 @@
 name: GitHub Metrics
 
 on:
-  schedule:
-    - cron: "0 6 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "17 6 * * *"
 
 permissions:
   contents: write
 
+concurrency:
+  group: github-metrics
+  cancel-in-progress: true
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
 
     steps:
       - name: Generate GitHub metrics
@@ -19,16 +24,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kdrcoding
           filename: github-metrics.svg
-
           template: classic
+          base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
           config_display: large
           config_animations: yes
 
-          base: header, activity, community, repositories, metadata
-
           plugin_languages: yes
-          plugin_languages_ignored: html, css
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
