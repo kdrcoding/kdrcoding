@@ -126,14 +126,11 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kdrcoding&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=5391FE&text_color=8B949E" alt="Kadir's GitHub statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kdrcoding&theme=transparent&hide_border=true&ring=0078D4&fire=5391FE&currStreakLabel=0078D4&sideLabels=5391FE" alt="Kadir's GitHub contribution streak" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kdrcoding&bg_color=transparent&color=5391FE&line=0078D4&point=26A5E4&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdrcoding&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=8B949E" alt="Most used public repository languages" />
-
-<sub>GitHub statistics reflect public repository activity, not total professional experience.</sub>
+<img
+  src="https://raw.githubusercontent.com/kdrcoding/kdrcoding/main/github-metrics.svg"
+  alt="Kadir Ravshanov GitHub metrics"
+  width="100%"
+/>
 
 </div>
 
