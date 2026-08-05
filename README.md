@@ -1,183 +1,125 @@
 <div align="center">
 
-<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5391FE&height=200&section=header&text=Kadir%20Ravshanov&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=IT%20Support%20Specialist%20%7C%20Junior%20SysAdmin%20%7C%20Los%20Angeles&descSize=16&descAlignY=60&descAlign=50" alt="Kadir Ravshanov — IT Support Specialist and Junior Systems Administrator" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5391FE&height=190&section=header&text=Kadir%20Ravshanov&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=IT%20Support%20%7C%20Junior%20Systems%20Administrator%20%7C%20Automation&descSize=16&descAlignY=60" alt="Kadir Ravshanov — IT Support and Junior Systems Administrator" />
 
-<div style="max-width: 100%; overflow: hidden;">
-  <img width="100%" height="55" style="max-width: 760px; height: auto;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=900&color=0078D4&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Windows+Server+%7C+Active+Directory+%7C+M365;PowerShell+Automation+%7C+OBD-II+Diagnostics;Local+AI+Workspaces+%7C+Web+Operations;CompTIA+Security%2B+%7C+Lab+Building+%7C+Always+Learning" alt="Windows Server, Active Directory, M365, PowerShell automation, OBD-II diagnostics, Local AI workspaces, web operations, and CompTIA Security+" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=5391FE&center=true&vCenter=true&repeat=true&width=760&height=50&lines=Windows+Server+%7C+Active+Directory+%7C+Microsoft+365;PowerShell+Automation+%7C+Technical+Support;Cloudflare+%7C+WordPress+%7C+Web+Operations;Building+Labs%2C+Tools%2C+and+Practical+Solutions" alt="Technical skills animation" />
 
-<br />
+[![Portfolio](https://img.shields.io/badge/Portfolio-kdrcoding.com-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kdrcoding.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kadir%20Ravshanov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kadir-ravshanov-961994187)
+[![Telegram](https://img.shields.io/badge/Telegram-@imkadi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imkadi)
 
-<p>
-  <a href="https://kdrcoding.com"><img src="https://img.shields.io/badge/Portfolio-kdrcoding.com-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/kadir-ravshanov-961994187"><img src="https://img.shields.io/badge/LinkedIn-Kadir%20Ravshanov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/imkadi"><img src="https://img.shields.io/badge/Telegram-@imkadi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-CompTIA%20Security%2B-0078D4?style=flat-square&logo=comptia&logoColor=white" alt="Current Focus: CompTIA Security+" />
-  <img src="https://img.shields.io/badge/Status-Building%20Homelab%20%26%20Scripts-success?style=flat-square&logo=statuspage&logoColor=white" alt="Status: Building Homelab and Scripts" />
-  <img src="https://komarev.com/ghpvc/?username=kdrcoding&style=flat-square&color=0078D4&label=Visitors" alt="Profile views" />
-</p>
-
-<img src="https://readme-jokes.vercel.app/api?theme=blueberry" alt="Random IT Joke" />
-
-<sub><a href="#-about-me">About</a> · <a href="#%EF%B8%8F-core-toolkit">Skills</a> · <a href="#-featured-projects">Projects</a> · <a href="#-github-metrics">Activity</a> · <a href="#%EF%B8%8F-roadmap">Roadmap</a> · <a href="#-lets-connect">Connect</a></sub>
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-IT%20Support%20%7C%20Junior%20SysAdmin-2EA44F?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Los%20Angeles%2C%20CA-0078D4?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=kdrcoding&style=flat-square&color=5391FE&label=Profile+Views)
 
 </div>
 
 ---
 
-## 💡 About me
+## 👋 About Me
 
-I am an **IT Support Specialist** and **Junior Systems Administrator** based in **Los Angeles, CA**. I bridge the gap between complex technical infrastructure and seamless operations. My background spans building practical IT tools, administering systems, managing e-commerce web deployment pipelines, and working deeply within advanced hardware/software diagnostic frameworks.
+I am an **IT Support Specialist** and **Junior Systems Administrator** based in **Los Angeles, California**. I build practical solutions for technical support, system administration, automation, web operations, and hardware/software diagnostics.
 
-* **Automation-First Mindset:** *If you have to fix it twice, document it. If you have to fix it three times, write a PowerShell script to handle it.*
-* **AI & Local Workflows:** Passionate about leveraging localized AI tools (Ollama, Open Interpreter, custom coding pipelines) to automate repetitive terminal operations, parse code logic, and deploy clean applications efficiently.
-* **Languages:** Fluent in English, Uzbek, Russian, and Turkish.
+- 🖥️ Support Windows users, endpoints, networks, and business applications
+- 🗂️ Work with Active Directory, Microsoft 365, DNS, DHCP, and Windows Server labs
+- ⚡ Automate repetitive support tasks with PowerShell and command-line tools
+- 🌐 Manage WordPress, WooCommerce, Cloudflare, DNS, and deployment workflows
+- 🔌 Troubleshoot advanced hardware and vehicle-network communication systems
+- 🌍 Fluent in **English, Uzbek, Russian, and Turkish**
 
-> **Currently:** Engineering automated internal IT support scripts, configuring local sandbox labs, and preparing for the **CompTIA Security+** credential.
-
-<p align="center">
-  <i>"Any sufficiently advanced technology is indistinguishable from magic."</i> — Arthur C. Clarke
-</p>
-
----
-
-## 🛠️ Core Toolkit
-
-### 🖥️ Systems Administration & Directory Services
-
-| Area | Stack |
-| :--- | :--- |
-| 🖥️ **Client / Server** | ![](https://img.shields.io/badge/Windows_Client/Server-0078D4?style=flat&logo=windows&logoColor=white) |
-| 🗂️ **Directory Services** | ![](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white) |
-| ☁️ **Cloud Productivity** | ![](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white) |
-
-### 🔌 Advanced Diagnostics & Scripting
-
-| Area | Stack |
-| :--- | :--- |
-| ⚡ **Scripting** | ![](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white) |
-| 🚗 **Vehicle Networks** | ![](https://img.shields.io/badge/OBD--II_%26_ENET%2FICOM-0078D4?style=flat&logo=bmw&logoColor=white) |
-| 🤖 **Local AI** | ![](https://img.shields.io/badge/Ollama_%2F_Local_LLMs-181717?style=flat&logo=linux&logoColor=white) |
-
-### 🌐 Web & Infrastructure Operations
-
-| Area | Stack |
-| :--- | :--- |
-| 🛒 **E-Commerce** | ![](https://img.shields.io/badge/WordPress_%2F_WooCommerce-21759B?style=flat&logo=wordpress&logoColor=white) |
-| 🌍 **DNS / CDN** | ![](https://img.shields.io/badge/Cloudflare_DNS-F38020?style=flat&logo=cloudflare&logoColor=white) |
-| ⚙️ **Automation** | ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-
-### 🎯 Currently Strengthening
-
-| Area | Stack |
-| :--- | :--- |
-| 🔐 **Cybersecurity** | ![](https://img.shields.io/badge/CompTIA_Security%2B-ED1C24?style=flat&logo=comptia&logoColor=white) ![](https://img.shields.io/badge/WireShark-1679A7?style=flat&logo=wireshark&logoColor=white) |
-| ☁️ **Cloud** | ![](https://img.shields.io/badge/Azure_Fundamentals-0089D6?style=flat&logo=microsoft-azure&logoColor=white) |
+> **Current focus:** Building stronger Windows Server and Group Policy labs, improving PowerShell automation, and preparing for CompTIA Security+.
 
 ---
 
-## 📌 Featured projects
+## 🧰 Technical Toolkit
 
-| Project | What it solves | Tech Stack |
-| :--- | :--- | :--- |
-| 🛠️ [**Windows Support Scripts**](https://github.com/kdrcoding/windows-support-scripts) | Automates link-local troubleshooting, network configurations, and common help desk diagnostic routines. | PowerShell · Windows CLI |
-| 📚 [**IT Troubleshooting Notes**](https://github.com/kdrcoding/it-troubleshooting-notes) | Centralized, markdown-driven internal IT knowledge base tracking local deployment configurations. | Markdown · Technical Writing |
-| 📋 [**Job Application Tracker**](https://github.com/kdrcoding/job-application-tracker) | Dependency-free, optimized application status indexing client utility utilizing client storage parameters. | HTML5 · CSS3 · JavaScript |
-| 🌐 [**WordPress Translation Workflow**](https://github.com/kdrcoding/translate-wordpress-web) | Optimizes automated string parsing routines and removes data localization overhead during deployments. | WordPress · Bash/PowerShell |
+### Systems & Support
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat&logo=microsoft&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-181717?style=flat&logo=linux&logoColor=white)
+
+### Networking, Automation & Cloud
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+### Web & Tools
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### Diagnostics & Local AI
+
+![OBD-II](https://img.shields.io/badge/OBD--II%20Diagnostics-37474F?style=flat)
+![Vehicle Networks](https://img.shields.io/badge/Vehicle%20Networks-1565C0?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama%20%2F%20Local%20LLMs-181717?style=flat&logo=ollama&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Purpose | Technology |
+|---|---|---|
+| [**Windows Support Scripts**](https://github.com/kdrcoding/windows-support-scripts) | Automates common help-desk diagnostics, network checks, and Windows troubleshooting tasks. | PowerShell · Windows CLI |
+| [**IT Troubleshooting Notes**](https://github.com/kdrcoding/it-troubleshooting-notes) | A practical knowledge base for repeatable support procedures and deployment notes. | Markdown · Technical Writing |
+| [**Job Application Tracker**](https://github.com/kdrcoding/job-application-tracker) | Tracks applications, statuses, and follow-up details without requiring a backend. | HTML · CSS · JavaScript |
+| [**WordPress Translation Workflow**](https://github.com/kdrcoding/translate-wordpress-web) | Streamlines WordPress string translation and localization workflows. | WordPress · PowerShell · Bash |
 
 <div align="center">
 
-[![Explore all repositories](https://img.shields.io/badge/Explore_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kdrcoding?tab=repositories)
+[![View All Repositories](https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kdrcoding?tab=repositories)
 
 </div>
 
 ---
 
-## 🏆 Trophies & Fun
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub profile trophies](https://github-profile-trophy.vercel.app/?username=kdrcoding&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kdrcoding&show_icons=true&theme=transparent&hide_border=true&title_color=0078D4&icon_color=5391FE&text_color=8B949E" alt="Kadir's GitHub statistics" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kdrcoding&theme=transparent&hide_border=true&ring=0078D4&fire=5391FE&currStreakLabel=0078D4&sideLabels=5391FE" alt="Kadir's GitHub contribution streak" />
 
-<br />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=kdrcoding&bg_color=transparent&color=5391FE&line=0078D4&point=26A5E4&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="500"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdrcoding&layout=compact&theme=transparent&hide_border=true&title_color=0078D4&text_color=8B949E" alt="Most used public repository languages" />
+
+<sub>GitHub statistics reflect public repository activity, not total professional experience.</sub>
 
 </div>
 
 ---
 
-## 📊 GitHub Metrics
+## 🎯 Current Goals
 
-<div align="center">
-
-[![GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kdrcoding&bg_color=transparent&color=5391FE&line=0078D4&point=26A5E4&area=true&hide_border=true)](https://github.com/kdrcoding)
-
-<br />
-
-<!-- Contribution Snake (requires Platane/snk GitHub Action) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kdrcoding/kdrcoding/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kdrcoding/kdrcoding/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kdrcoding/kdrcoding/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=kdrcoding&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kdrcoding&theme=dark&hide_border=false&ring=0078D4&fire=26A5E4&currStreakLabel=0078D4&sideLabels=5391FE" alt="GitHub streak" />
-
-<br />
-
-#### 📈 Most used languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdrcoding&theme=dark&hide_border=false&layout=compact" alt="Top languages" />
-
-<sub>Statistics are based on public GitHub activity and do not represent overall experience.</sub>
-
-</div>
+- Earn the **CompTIA Security+** certification
+- Expand Windows Server, Active Directory, and Group Policy labs
+- Publish more reusable PowerShell support tools
+- Build practical cloud and cybersecurity projects
+- Continue improving documentation and technical writing
 
 ---
 
-## 🗺️ Roadmap with Progress
-
-<table align="center">
-  <tr>
-    <td>🔐 <b>CompTIA Security+</b></td>
-    <td><img src="https://progress-bar.dev/75?title=&width=200&color=0078D4&suffix=%25" alt="75% complete" /></td>
-  </tr>
-  <tr>
-    <td>🤖 <b>Advanced Automated Workspaces</b></td>
-    <td><img src="https://progress-bar.dev/40?title=&width=200&color=5391FE&suffix=%25" alt="40% complete" /></td>
-  </tr>
-  <tr>
-    <td>🖥️ <b>Windows Server & Group Policy Labs</b></td>
-    <td><img src="https://progress-bar.dev/60?title=&width=200&color=26A5E4&suffix=%25" alt="60% complete" /></td>
-  </tr>
-</table>
-
-<div align="center">
-<i>Progress is tracked against my personal development plan. Updated weekly.</i>
-</div>
-
----
-
-## 🤝 Let's connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-Always happy to connect with people in IT support, systems administration, modern diagnostic hardware networking, and automation.
+I am open to opportunities in **IT support, desktop support, junior systems administration, technical operations, and automation**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kdrcoding.com-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kdrcoding.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kadir%20Ravshanov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kadir-ravshanov-961994187)
 [![Telegram](https://img.shields.io/badge/Telegram-@imkadi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imkadi)
 [![GitHub](https://img.shields.io/badge/GitHub-kdrcoding-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kdrcoding)
 
-<br />
-
-<img width="100%" height="100" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5391FE&height=100&section=footer&fontSize=14&fontColor=ffffff&animation=twinkling&text=Open%20to%20connect%20--%20IT%20Support%20%7C%20SysAdmin%20%7C%20Automation" alt="Open to connect — IT Support, SysAdmin, and Automation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:5391FE&height=100&section=footer" alt="Footer" />
 
 </div>
