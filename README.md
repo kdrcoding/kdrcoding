@@ -127,7 +127,7 @@ I am an **IT Support Specialist** and **Junior Systems Administrator** based in 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/kdrcoding/kdrcoding/main/github-metrics.svg"
+  src="./github-metrics.svg"
   alt="Kadir Ravshanov GitHub metrics"
   width="100%"
 />
