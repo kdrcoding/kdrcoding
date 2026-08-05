@@ -35,12 +35,10 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
 
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 30
-          # Exclude push: GitHub removed commits from PushEvent payloads,
-          # which crashes lowlighter/metrics activity plugin (.filter on undefined)
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create, ref/delete, public, wiki
+          # Disabled: upstream bug — PushEvent.commits removed by GitHub API,
+          # activity plugin crashes at index.mjs:140 (.filter on undefined)
+          # See https://github.com/lowlighter/metrics/discussions/1759
+          plugin_activity: no
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
