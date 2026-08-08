@@ -18,7 +18,7 @@
 [![GitHub](https://img.shields.io/badge/REPO-kdrcoding-181717?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=0A1628)](https://github.com/kdrcoding)
 
 ![Open](https://img.shields.io/badge/HIRE_STATE-OPEN_TO_WORK-00C853?style=flat-square&labelColor=0A1628)
-![Role](https://img.shields.io/badge/CLASS-IT_SUPPORT_%7C_DESKTOP_%7C_JUNIOR_SYSADMIN-00E5FF?style=flat-square&labelColor=0A1628)
+![Role](https://img.shields.io/badge/CLASS-IT_SUPPORT_%7C_DESKTOP_%7C_SYSADMIN-00E5FF?style=flat-square&labelColor=0A1628)
 ![Loc](https://img.shields.io/badge/COORD-LOS_ANGELES%2C_CA-0078D4?style=flat-square&labelColor=0A1628)
 ![Views](https://komarev.com/ghpvc/?username=kdrcoding&style=flat-square&color=00E5FF&label=SIGNAL+HITS)
 
@@ -30,7 +30,7 @@
 
 > **Transmission from Cycle 4526:** Earth still needs people who can keep machines honest. I do that work now.
 
-I am **Kadir Ravshanov**, an **IT Support Specialist** and **Junior Systems Administrator** in **Los Angeles**. I fix endpoints, accounts, apps, networks, and cloud services, then leave behind scripts and docs so the next incident is shorter.
+I am **Kadir Ravshanov**, an **IT Support Specialist** and **Systems Administrator** in **Los Angeles**. I fix endpoints, accounts, apps, networks, and cloud services, then leave behind scripts and docs so the next incident is shorter.
 
 <table>
 <tr>
@@ -175,36 +175,36 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
-### ⌁ [Windows Support Scripts](https://github.com/kdrcoding/windows-support-scripts)
-Help-desk diagnostics, network checks, and Windows recovery tasks on demand.
+### ⌁ [Website Health Checker](https://github.com/kdrcoding/website-health-checker)
+DNS, SSL, HTTP, SEO, and security-header scans in one dashboard.
 
-`PowerShell` · `Windows CLI`
+`Next.js` · `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### ⌁ [IT Troubleshooting Notes](https://github.com/kdrcoding/it-troubleshooting-notes)
-Repeatable procedures, known fixes, and deployment notes for real support work.
+### ⌁ [QuickMark](https://github.com/kdrcoding/quickmark)
+CLI bookmark manager with full-text search, tags, and link checks.
 
-`Markdown` · `Runbooks`
+`Python` · `SQLite`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⌁ [Job Application Tracker](https://github.com/kdrcoding/job-application-tracker)
-Offline tracker for applications, contacts, and follow-ups. No backend required.
+### ⌁ [Family Tree](https://github.com/kdrcoding/myfamilytree)
+Interactive family tree with shared sync across devices.
 
-`HTML` · `CSS` · `JavaScript`
+`React` · `TypeScript` · `Supabase`
 
 </td>
 <td width="50%" valign="top">
 
 ### ⌁ [WordPress Translation Workflow](https://github.com/kdrcoding/translate-wordpress-web)
-Localization cleanup pipeline for WordPress sites and translation passes.
+Localization cleanup pipeline for WordPress `.po` / `.mo` files.
 
-`WordPress` · `PowerShell` · `Bash`
+`WordPress` · `Node` · `CLI`
 
 </td>
 </tr>
@@ -238,7 +238,7 @@ Localization cleanup pipeline for WordPress sites and translation passes.
 [ ] Earn CompTIA Security+
 [ ] Expand Windows Server · AD · GPO · networking labs
 [ ] Ship more reusable PowerShell / support tools
-[ ] Build cloud, security, and sysadmin practice projects
+[ ] Ship more reusable PowerShell / support tools
 [ ] Keep documentation and troubleshooting workflows sharp
 ```
 
@@ -258,7 +258,7 @@ Localization cleanup pipeline for WordPress sites and translation passes.
 ```text
 AVAILABLE FOR:
 IT Support · Help Desk · Desktop Support · Technical Support
-Junior Systems Administration · Network Support · Technical Operations
+Systems Administration · Network Support · Technical Operations
 ```
 
 [![Portfolio](https://img.shields.io/badge/ENTER_PORTAL-kdrcoding.com-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=0A1628&labelColor=0A1628)](https://kdrcoding.com)
