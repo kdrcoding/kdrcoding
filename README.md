@@ -2,56 +2,41 @@
 
 # Kadir Ravshanov
 
-**IT Support Specialist · Systems Administrator · Los Angeles**
+**BMW coding software · Windows & Java · Los Angeles**
 
-PowerShell · Microsoft 365 · Active Directory · Networking · Windows Server
-
-[Portfolio](https://kdrcoding.com) · [LinkedIn](https://linkedin.com/in/kadir-ravshanov-961994187) · [Resume](https://resume.kdrcoding.com) · [Telegram](https://t.me/imkadi)
-
-![Open to work](https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Los%20Angeles%2C%20CA-0078D4?style=flat-square)
+[E-Sys MAX](https://esysmax.com) · [Portfolio](https://kdrcoding.com) · [LinkedIn](https://linkedin.com/in/kadir-ravshanov-961994187) · [Telegram](https://t.me/imkadi)
 
 </div>
 
 ---
 
-## About
+## What I build
 
-I work IT support and systems administration — endpoints, identity, Microsoft 365, networking, and the scripts/docs that make the next ticket faster.
+I make BMW coding easier. My main product is **[E-Sys MAX](https://esysmax.com)**: a launcher and add-on for BMW's E-Sys that coders use on F, G and I-series cars every day.
 
-Languages: English · Uzbek · Russian · Turkish
+- Option codes and coding settings in plain English, with cheat sheets you can apply in a click
+- A fault scan of every module, with clear and with what the codes mean
+- One-click full backup of the car, coding history and a way back
+- A flash assistant that checks the charger, backup and job before you press Start
+- Licences, trials and support through a Telegram bot ([@EsysMaxbot](https://t.me/EsysMaxbot)), card payments and signed updates
 
-## What I work with
-
-| Area | Tools |
-| --- | --- |
-| Support | Windows 10/11, ServiceNow, remote assist, printers/peripherals |
-| Identity | Active Directory, Microsoft 365, permissions, account recovery |
-| Network | TCP/IP, DNS, DHCP, VPN, Wi-Fi, LAN/WAN |
-| Automation | PowerShell, Bash, CLI tooling |
-| Web / ops | DNS/SSL checks, WordPress, hosting, deploy paths |
-
-## Featured projects
+## Projects
 
 | Project | What it does |
 | --- | --- |
-| [powershell-helpdesk-toolkit](https://github.com/kdrcoding/powershell-helpdesk-toolkit) | Windows help-desk scripts + ticket-ready support report export |
-| [website-health-checker](https://github.com/kdrcoding/website-health-checker) | DNS / SSL / HTTP / SEO / security-header scanner |
-| [lazyscript](https://github.com/kdrcoding/lazyscript) | Kali training toolkit — 100+ tools behind one `lazy` command |
-| [translate-wordpress-web](https://github.com/kdrcoding/translate-wordpress-web) | Fill missing WordPress `.po` translations and compile `.mo` |
-| [quickmark](https://github.com/kdrcoding/quickmark) | CLI bookmark manager with full-text search and tags |
-| [myfamilytree](https://github.com/kdrcoding/myfamilytree) | Interactive family tree app with shared cloud sync |
+| [E-Sys MAX](https://esysmax.com) | The product: Windows launcher (C#/WPF) plus an add-on that runs inside E-Sys (Java) |
+| [esysmax-website](https://github.com/kdrcoding/esysmax-website) | The esysmax.com website, downloads and update feed |
+| [kdr-enet](https://github.com/kdrcoding/kdr-enet) | Free Windows app for a remote BMW coding session: the car's laptop shows a code, and E-Sys connects as if the car were local |
 
-## Currently focused on
+## Tools I use
 
-- CompTIA Security+
-- Deeper Windows Server / AD / GPO work
-- Reusable PowerShell tooling for support teams
+C# / .NET · Java · Node.js · PowerShell · SQL (Supabase) · Vercel · Windows internals · BMW ENET / HSFZ / UDS
+
+Before this I worked in IT support and systems administration (Windows, Microsoft 365, Active Directory, networking), and that still shows in how I build: software that installs cleanly, tells you what it is doing, and never surprises you.
 
 ## Contact
 
-Open to **IT Support**, **Help Desk**, **Desktop Support**, and **Systems Admin** roles in Los Angeles / remote-friendly.
+- E-Sys MAX help and licences: [@EsysMaxbot](https://t.me/EsysMaxbot)
+- Me: [Telegram @imkadi](https://t.me/imkadi) · [kdrcoding.com](https://kdrcoding.com)
 
-- Site: [kdrcoding.com](https://kdrcoding.com)
-- LinkedIn: [Kadir Ravshanov](https://linkedin.com/in/kadir-ravshanov-961994187)
-- Resume: [resume.kdrcoding.com](https://resume.kdrcoding.com)
+Languages: English · Uzbek · Russian · Turkish
