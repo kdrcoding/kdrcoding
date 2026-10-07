@@ -4,7 +4,7 @@
 
 **BMW coding software · Windows & Java · Los Angeles**
 
-[E-Sys MAX](https://esysmax.com) · [Portfolio](https://kdrcoding.com) · [LinkedIn](https://linkedin.com/in/kadir-ravshanov-961994187) · [Telegram](https://t.me/imkadi)
+[E-Sys MAX](https://esysmax.com) · [Portfolio](https://kdrcoding.com) · [LinkedIn](https://linkedin.com/in/kadir-r-961994187) · [Telegram](https://t.me/imkadi)
 
 </div>
 
